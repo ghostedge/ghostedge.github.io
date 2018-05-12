@@ -5,23 +5,32 @@ date: 2018-5-11
 author: IronHead
 categories: 需求调研
 tags: 需求调研
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+
 ---
+
+
 ### 整体思路：
   结合项目背景、项目需求及相关资料，首先以整体流程图和用例图的形式将整个生产管理过程展现出来，尽可能全面地呈现生产管理的过程及异常（不合格）情况。
 <p>
   之后按照流程图，将生产管理大致划分为订单管理，采购管理，仓库管理，生产管理四个模块。 针对每个模块，以流程图的形式对每一个模块本身的运行方式以及与其他模块的交互过程进行了简单分析，并简单罗列了过程中所产生的对企业管理所需的数据，以表格的形式将思考的结果展现出来。
+</p>
+
 ### 初步整体流程图及用例图
 
-![](assets/img/图1流程图.png)
+![](https://github.com/ghostedge/ghostedge.github.io/raw/master/assets/img/%E5%9B%BE1%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 
 图1流程图
 
-![](assets/img/quin.jpg)
+![](https://raw.githubusercontent.com/ghostedge/ghostedge.github.io/master/assets/img/%E5%9B%BE2%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
+
 图2用例图
 
 还有一些简单的用例。
-![](assets/img/quin.jpg)
+![](https://raw.githubusercontent.com/ghostedge/ghostedge.github.io/master/assets/img/%E5%9B%BE3%E7%94%A8%E4%BE%8B.png)
+
+图3用例
 
 ### 生产管理表格及功能设计
 
