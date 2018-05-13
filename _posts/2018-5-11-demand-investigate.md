@@ -5,7 +5,7 @@ date: 2018-5-11
 author: IronHead
 categories: 需求调研
 tags: 需求调研
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: 'https://github.com/ghostedge/ghostedge.github.io/raw/master/assets/img/%E5%9B%BE1%E6%B5%81%E7%A8%8B%E5%9B%BE.png'
 
 ---
 

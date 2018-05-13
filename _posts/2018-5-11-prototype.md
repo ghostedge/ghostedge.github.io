@@ -4,6 +4,7 @@ title: 原型图
 date: 2018-5-11
 categories: 原型图
 tags: 原型图
+cover: 'https://github.com/ghostedge/ghostedge.github.io/raw/master/assets/img/prototype-0.png'
 ---
 ### 原型设计说明：
 我们此次企业生产管理系统的原型设计是用 Excel 来实现的，在此基础上，又用墨刀做
